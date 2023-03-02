@@ -103,3 +103,18 @@ body {
   width: 230px;
 }
 
+.character-dice-container {
+  display: flex;
+  justify-content: center;
+  background: #000;
+}
+
+.dice {
+  margin-right: .5em;
+  border: 1px solid #666;
+  border-radius: 5px;
+  color:#5c73c4;
+  background: #3e2626;   
+  padding: 0 .25em;
+  margin: .25em;
+}
